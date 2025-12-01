@@ -7,6 +7,7 @@
 - Quick Sort
 - Insertion Sort
 - Buble Sort
+- Heap Sort
 ### 그래프
 - 경로 탐색
   - 기본 탐색
