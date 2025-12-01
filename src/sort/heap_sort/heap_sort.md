@@ -1,6 +1,6 @@
 # Heap Sort
 ## Pseudo Code
-### function heap_sort(array tree[], int N, const int sizetree)
+### _void heap_sort(array tree[], int N, const int sizetree)_
 _{ 트리를 힙 상태로 만들고 루트를 추출 트리 사이즈를 1 줄이고 과정을 반복함 }  
 tree[0]: root  
 tree[2n + 0]: left child of tree[n]  
@@ -20,8 +20,8 @@ for(int i = N - 1; i >= 0; i--):
 for(int i = 0; i < N; i++)
   cout << tree[i] << ' '
 ```
-_### void heapify(int N, int i)  
-{ 루트가 tree[i]이고 크기가 N인 트리를 힙 상태로 만듬 }  
+### _void heapify(int N, int i)_ 
+_{ 루트가 tree[i]이고 크기가 N인 트리를 힙 상태로 만듬 }  
 largest = i  
 left = 2 * i + 1  
 right = 2 * i + 2_
