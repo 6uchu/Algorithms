@@ -1,3 +1,7 @@
 # Heap Sort
-## function heap_sort
-## function heapify
+## Pseudo Code
+```
+```
+## Code
+```cpp
+```
