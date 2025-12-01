@@ -1,4 +1,5 @@
 # Heap Sort
+Heap Tree: 부모 노드의 값이 자식 노드 값보다 큰 트리
 ## Pseudo Code
 ### _void heap_sort(array tree[], int N, const int sizetree)_
 _{ 트리를 힙 상태로 만들고 루트를 추출 트리 사이즈를 1 줄이고 과정을 반복함 }  
