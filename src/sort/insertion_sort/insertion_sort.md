@@ -1,7 +1,7 @@
 # Insertion Sort
 ## Pseudo Code
-_function insertion_sort(array arr[], int key, int i, int j)  
-{ 삽입 정렬을 수행함 }_
+### _function insertion_sort(array arr[], int key, int i, int j)_
+_{ 삽입 정렬을 수행함 }_
 ```
 for i = 1 to size(arr) - 1:
   //0부터 i까지 부분적으로 정렬
