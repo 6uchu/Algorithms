@@ -5,8 +5,8 @@ Heap Tree: 부모 노드의 값이 자식 노드 값보다 큰 트리
 _{ 트리를 힙 상태로 만들고 루트를 추출 트리 사이즈를 1 줄이고 과정을 반복함 }  
 tree[0]: root  
 tree[2n + 0]: left child of tree[n]  
-tree[2n + 1]: right child of tree[n]_
-N: 정렬되가며 바뀌는 트리의 사이즈
+tree[2n + 1]: right child of tree[n]
+N: 정렬되가며 바뀌는 트리의 사이즈_
 ```
 //heapify from the last subtree of tree--N / 2 - 1, from bottom to top 
 for(int i = N / 2 - 1; i >= 0; i--):
