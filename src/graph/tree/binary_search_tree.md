@@ -1,7 +1,7 @@
 # Binary Search Tree
 ## Pseudo Code
-_bt[]: binary tree
-bt[2n + 0] = left child of bt[n]
+_bt[]: binary tree  
+bt[2n + 0] = left child of bt[n]  
 bt[2n + 1] = right child of bt[n]_
 ### _bst_insertion(int val)_
 _{ binary tree 규칙 아래 새로운 노드를 삽입 }  
