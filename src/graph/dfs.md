@@ -15,15 +15,15 @@ int visited[?];
 int graph;
 
 void dfs(int start){
-  stk.push_back(start);
+  stk.push(start);
   visited[start] = 1;
 
   while(size(stk)){
     int a = stk.top();
     stk.pop();
     for(int e : graph[a]){
-      if(visited[e] == 0){
-        stk.push_back(e);
+      if(!visited[e]){
+        stk.push(e);
         visited[e] = 1;
       }
     }
