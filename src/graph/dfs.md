@@ -21,6 +21,7 @@ void dfs(int start){
   while(size(stk)){
     int a = stk.top();
     stk.pop();
+    \\방문시 실행될 명령어
     for(int e : graph[a]){
       if(!visited[e]){
         stk.push(e);
