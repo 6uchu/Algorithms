@@ -1,4 +1,4 @@
-# 제목
+# Depth First Search
 ## Pseudo Code
 ### Depth First Search
 _{ 한 노드에서 연결된 한 노드에 대해 계속 탐색 }  
