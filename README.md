@@ -18,4 +18,4 @@
     - Red-Black Tree
 ### DP
 ### 이외
-- Pigeonhole principle
+- Pigeonhole Principle
