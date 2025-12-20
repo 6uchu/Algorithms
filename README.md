@@ -17,3 +17,5 @@
     - BST (Binary Search Tree) 
     - Red-Black Tree
 ### DP
+### 이외
+- Pigeonhole principle
