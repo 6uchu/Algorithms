@@ -7,13 +7,16 @@ tempq: 다음 레벨의 노드를 저장_
 ```
 q.push(start node)
 visited[start node] = 1
+
 while(~~~):
   while(tempq.size()):
     q.push(tempq.front())
     tempq.pop()
+
   while(q.size()):
     here = q.front()
     q.pop()
+
     for(next):
       visited[next] = visited[here] + 1
       if(~~~): continue
@@ -26,11 +29,13 @@ while(~~~):
 //혹은
 q.push(start node)
 visited[start node] = 1
+
 while(~~~):
   sizeq = q.size()
   while(sizeq--):
     here = q.front()
     q.pop()
+
     for(next):
       visited[next] = visited[here] + 1
       if(~~~): continue
