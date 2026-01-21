@@ -16,7 +16,9 @@
       └ Flood Fill  
   - 트리
     - BST (Binary Search Tree) 
-    - Red-Black Tree 
+    - Red-Black Tree
+### 탐색
+  - Binary Search 
 ### DP
 ### 이외
 - Pigeonhole Principle 
