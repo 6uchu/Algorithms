@@ -7,7 +7,7 @@
 - Quick Sort 
 - Insertion Sort 
 - Buble Sort 
-- Heap Sort <- 안함
+- Heap Sort X
 ### 그래프
 - 경로 탐색
   - 기본 탐색
@@ -21,9 +21,9 @@
   - Binary Search 
 ### DP
 - 0/1 Knapsack
-- Unbounded Knapsack
-- Bounded Knapsack
-- Subset Sum
+- Unbounded Knapsack X
+- Bounded Knapsack X
+- Subset Sum X
 ### Greedy
 - Fractional Knapsack
 ### 이외
