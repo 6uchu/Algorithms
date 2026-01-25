@@ -24,7 +24,7 @@
 - Unbounded Knapsack
 - Bounded Knapsack
 - Subset Sum
-- ### Greedy
+### Greedy
 - Fractional Knapsack
 ### 이외
 - Pigeonhole Principle
