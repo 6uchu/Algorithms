@@ -20,6 +20,12 @@
 ### 탐색
   - Binary Search 
 ### DP
+- 0/1 Knapsack
+- Unbounded Knapsack
+- Bounded Knapsack
+- Subset Sum
+- ### Greedy
+- Fractional Knapsack
 ### 이외
 - Pigeonhole Principle
 - Sieve of Eratosthenes
