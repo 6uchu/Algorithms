@@ -1,10 +1,10 @@
 # Binary Search
 ## Pseudo Code
 ### _BinarySearch_
-_{ 정렬된 배열에서 목표 값을 이분 탐색으로 찾는다 }  
-arr: 절렬된 배열  
-n: 배열 크기  
-target: 찾을 값_
+_{ 정렬된 배열에서 목표 값을 이분 탐색으로 찾는다 }_  
+- `arr`: 절렬된 배열  
+- `n`: 배열 크기  
+- `target`: 찾을 값
 ```
 left ← 0
 right ← n - 1
