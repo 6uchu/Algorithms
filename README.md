@@ -26,6 +26,8 @@
 - Subset Sum X
 ### Greedy
 - Fractional Knapsack
+### Automata
+-  DFA (Deterministic Finite Automaton)
 ### 이외
 - Pigeonhole Principle
 - Sieve of Eratosthenes
