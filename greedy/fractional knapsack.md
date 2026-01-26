@@ -1,9 +1,9 @@
 # 제목
 ## Fractional Knapsack
 ### _fractionalKnapsack_
-_{ 물건을 쪼갤 수 있을 때 최대 가치를 구한다 }  
-ratio: 가치 / 무게  
-remain: 남은 용량_
+_{ 물건을 쪼갤 수 있을 때 최대 가치를 구한다 }_  
+- `ratio`: 가치 / 무게  
+- `remain`: 남은 용량
 ```
 totalValue = 0
 remain ← W
