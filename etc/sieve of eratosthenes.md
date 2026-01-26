@@ -1,9 +1,9 @@
 # Sieve of Eratosthenes
 ## Pseudo Code
 ### _sieveOfEratosthenes_
-_{ 2부터 a까지의 비소수를 제거 }  
+_{ 2부터 a까지의 비소수를 제거 }_  
 - `a`: 제거 범위  
-- `arr`: true = composite(합성수, 비소수), false = prime_
+- `arr`: true = composite(합성수, 비소수), false = prime
 ```
 for i = 2 to i * i <= a:
     if arr[i] == true:
