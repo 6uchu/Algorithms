@@ -1,9 +1,9 @@
 # Flood Fill
 ## Pseudo Code
 ### _flood_fill(queue q, queue tempq)_
-_{ bfs를 한 레벨별로 구분되게 실행 }  
-q: 탐색이 실행되는 큐
-tempq: 다음 레벨의 노드를 저장_
+_{ bfs를 한 레벨별로 구분되게 실행 }_  
+- `q`: 탐색이 실행되는 큐
+- `tempq`: 다음 레벨의 노드를 저장
 ```
 q.push(start node)
 visited[start node] = 1
