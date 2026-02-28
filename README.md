@@ -32,4 +32,3 @@
 - Pigeonhole Principle
 - Sieve of Eratosthenes
 ### 팁
-- 좌표 int 하나로 표기하기
